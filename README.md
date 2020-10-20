@@ -1,1 +1,1 @@
-# git_test
+This is an early Git project
